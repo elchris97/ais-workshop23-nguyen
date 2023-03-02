@@ -3,3 +3,4 @@
 naruto
 sasuke
 sakura
+kakashi
